@@ -109,10 +109,6 @@ features:
   # icon: pe-7s-vector
   icon: pe-7s-healthwise
 
-# Feature
-- title: Brim Coffee
-  description: A classic! Brim coffee was the number 1 coffee in the 60s, announcing it's comeback, WindyCity Coffee has partnered with Brim to reinvigorate this timeless brand.
-  icon: pe-7s-brim
 
 # Feature
 - title: TechnoRoasting™
